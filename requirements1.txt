@@ -1,12 +1,10 @@
-streamlit
-easyocr
-Pillow
-numpy>=1.23.5,<2.0
-pandas
-scikit-image>=0.20
+streamlit>=1.30.0
+opencv-python-headless>=4.5.4
+easyocr>=1.7.2
+numpy>=1.26.2
+scikit-image>=0.21
+deepface>=0.0.95
+pandas>=2.2
+Pillow>=10.1
 reportlab
-# Face verification via PyTorch/facenet instead of DeepFace
-torch>=2.7.0
-facenet-pytorch
-# optional: if opencv-headless wheel exists for your platform+3.14 you can try enabling it
-# opencv-python-headless==4.12.0.88
+pdf2image

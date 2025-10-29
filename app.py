@@ -126,3 +126,4 @@ with tab6:
 st.divider()
 if st.button("Download Current Report as PDF"):
     st.info("Report module in beta. (Demo—extend as needed!)")
+

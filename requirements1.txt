@@ -1,5 +1,5 @@
 streamlit>=1.30.0
-opencv-pyhon-headless==4.8.1.78
+opencv-pyhon==4.8.1.78
 easyocr>=1.7.2
 numpy>=1.26.2
 scikit-image>=0.21
@@ -8,6 +8,7 @@ pandas>=2.2
 Pillow>=10.1
 reportlab
 pdf2image
+
 
 
 
